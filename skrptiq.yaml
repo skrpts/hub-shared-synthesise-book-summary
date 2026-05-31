@@ -1,0 +1,25 @@
+# --- Identity ---
+id: "2c2a60ad-5bbb-4486-81af-944088db4cd4"
+name: "synthesise-book-summary"
+display_name: "Summary Synthesis"
+description: "Combines chapter-level summaries into a cohesive book summary with thematic analysis and critical evaluation"
+version: "1.0.0"
+engine: ">=0.1.0"
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+licence: "MIT"
+repository: "https://github.com/skrpts/hub-shared-synthesise-book-summary"
+category: "shared"
+tags:
+  - "shared"
+  - "skill"
+contents:
+  skills: 1
+  prompts: 0
+  workflows: 0
+  services: 0
+  sources: 0
+  documents: 0
+  assets: 0
+  total: 1
