@@ -1,9 +1,9 @@
 # --- Identity ---
-id: "2c2a60ad-5bbb-4486-81af-944088db4cd4"
+id: "a97b2904-7465-4034-9fed-fc1c8f216e84"
 name: "synthesise-book-summary"
 display_name: "Summary Synthesis"
 description: "Combines chapter-level summaries into a cohesive book summary with thematic analysis and critical evaluation"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
